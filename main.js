@@ -4,7 +4,6 @@ const novoItem= document.createElement('td');
 const novaCelula= document.createElement('tbody');
 novaCelula.style.cursor = 'pointer'; 
 
-
 // const numeros = [];
 let linhas='';
 
